@@ -1,0 +1,15 @@
+C:\CursoCSharp\Curso\primeiraAulaOOP\bin\Debug\net6.0\primeiraAulaOOP.exe
+C:\CursoCSharp\Curso\primeiraAulaOOP\bin\Debug\net6.0\primeiraAulaOOP.deps.json
+C:\CursoCSharp\Curso\primeiraAulaOOP\bin\Debug\net6.0\primeiraAulaOOP.runtimeconfig.json
+C:\CursoCSharp\Curso\primeiraAulaOOP\bin\Debug\net6.0\primeiraAulaOOP.dll
+C:\CursoCSharp\Curso\primeiraAulaOOP\bin\Debug\net6.0\primeiraAulaOOP.pdb
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.AssemblyInfoInputs.cache
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.AssemblyInfo.cs
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.dll
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\refint\primeiraAulaOOP.dll
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.pdb
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\primeiraAulaOOP.genruntimeconfig.cache
+C:\CursoCSharp\Curso\primeiraAulaOOP\obj\Debug\net6.0\ref\primeiraAulaOOP.dll
