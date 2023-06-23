@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\OOP\\FirstClass\\primeiraAulaOOP.csproj": {}
+    "c:\\Course\\OOP\\FirstClass\\primeiraAulaOOP.csproj": {}
   },
   "projects": {
-    "c:\\OOP\\FirstClass\\primeiraAulaOOP.csproj": {
+    "c:\\Course\\OOP\\FirstClass\\primeiraAulaOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\OOP\\FirstClass\\primeiraAulaOOP.csproj",
+        "projectUniqueName": "c:\\Course\\OOP\\FirstClass\\primeiraAulaOOP.csproj",
         "projectName": "primeiraAulaOOP",
-        "projectPath": "c:\\OOP\\FirstClass\\primeiraAulaOOP.csproj",
+        "projectPath": "c:\\Course\\OOP\\FirstClass\\primeiraAulaOOP.csproj",
         "packagesPath": "C:\\Users\\ajadne.vacineski\\.nuget\\packages\\",
-        "outputPath": "c:\\OOP\\FirstClass\\obj\\",
+        "outputPath": "c:\\Course\\OOP\\FirstClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajadne.vacineski\\AppData\\Roaming\\NuGet\\NuGet.Config"
