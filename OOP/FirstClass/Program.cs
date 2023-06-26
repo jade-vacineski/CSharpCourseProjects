@@ -21,20 +21,21 @@ namespace Course
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
 
-            System.Console.WriteLine(areaX.ToString("F4"), CultureInfo.InvariantCulture);
+            double areaX = x.Area();
+            double areaY = y.Area();
 
-            System.Console.WriteLine(areaY.ToString("F4"), CultureInfo.InvariantCulture);
+            System.Console.WriteLine("Area x:" + areaX.ToString("F4"), CultureInfo.InvariantCulture);
 
-            if (areaX > areaY){
-                System.Console.WriteLine("x");
+            System.Console.WriteLine("Area y" + areaY.ToString("F4"), CultureInfo.InvariantCulture);
+
+            if (areaX > areaY)
+            {
+                System.Console.WriteLine("largest area: x");
             }
-            else{
-                System.Console.WriteLine("y");
+            else
+            {
+                System.Console.WriteLine("largest area: y");
             }
         }
     }
