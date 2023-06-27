@@ -1,0 +1,15 @@
+C:\Course\OOP\Struct\bin\Debug\net6.0\Struct.exe
+C:\Course\OOP\Struct\bin\Debug\net6.0\Struct.deps.json
+C:\Course\OOP\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+C:\Course\OOP\Struct\bin\Debug\net6.0\Struct.dll
+C:\Course\OOP\Struct\bin\Debug\net6.0\Struct.pdb
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.dll
+C:\Course\OOP\Struct\obj\Debug\net6.0\refint\Struct.dll
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.pdb
+C:\Course\OOP\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+C:\Course\OOP\Struct\obj\Debug\net6.0\ref\Struct.dll
