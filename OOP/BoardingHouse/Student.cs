@@ -14,7 +14,8 @@ namespace Course
 
         }
 
-        override public string ToString(){
+        override public string ToString()
+        {
             return Name + " " + Email;
         }
 
