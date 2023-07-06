@@ -8,31 +8,14 @@ namespace course
         static void Main(string[] args)
         {
 
-            Account account1 = new Account(1002, "Alex", 0.0);
-            BussinessAccount bussinessAccount = new BussinessAccount(1003, "Ana", 0.0, 500.0);
+            Account account1 = new Account(1001, "Alex", 500.0);
+            Account account2 = new SavingsAccount(1002, "Ana", 500.0, 0.1);
 
-            //Upcasting
+            account1.Withdraw(10.0);
+            account2.Withdraw(10.0);
 
-            Account account2 = bussinessAccount;
-            Account account3 = new BussinessAccount(007, "Bob", 0.0, 200.0);
-
-            //Downcasting
-
-            BussinessAccount account4 = (BussinessAccount)account2;
-            account4.Loan(100.0);
-
-            
-            if (account3 is BussinessAccount){
-                BussinessAccount account5 = account3 as BussinessAccount;
-                account5.Loan(100);
-                System.Console.WriteLine("Loan!");
-            }
-
-             if (account3 is SavingsAccount){
-                SavingsAccount account5 = account3 as SavingsAccount;
-                account5.Deposit(100);
-                System.Console.WriteLine("Deposit!");
-            }
+            System.Console.WriteLine(account1.Balance);
+            System.Console.WriteLine(account2.Balance);
 
         }
     }
