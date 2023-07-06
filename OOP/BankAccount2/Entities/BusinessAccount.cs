@@ -1,15 +1,15 @@
 namespace course.Entities
 {
 
-    class BusinessAccount : Account
+    class BussinessAccount : Account
     {
         public double LoanLimit { get; set; }
 
-        public BusinessAccount()
+        public BussinessAccount()
         {
 
         }
-        public BusinessAccount(int number, string holder, double balance, double loanLimit) : base(number, holder, balance)
+        public BussinessAccount(int number, string holder, double balance, double loanLimit) : base(number, holder, balance)
         {
             LoanLimit = loanLimit;
         }
