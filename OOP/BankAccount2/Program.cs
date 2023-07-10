@@ -1,4 +1,4 @@
-﻿using course.Entities;
+﻿using Course.Entities;
 
 namespace course
 {

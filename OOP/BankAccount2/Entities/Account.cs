@@ -1,4 +1,4 @@
-namespace course.Entities
+namespace Course.Entities
 {
 
     class Account

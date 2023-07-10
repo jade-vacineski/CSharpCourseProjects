@@ -1,6 +1,6 @@
-namespace course.Entities
+namespace Course.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -20,5 +20,6 @@ namespace course.Entities
             base.Withdraw(amount);
             Balance -= 2.0;
         }
+
     }
 }
