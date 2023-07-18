@@ -1,0 +1,15 @@
+C:\Course\FileManipulation\Reading\bin\Debug\net6.0\Reading.exe
+c:\Course\FileManipulation\Reading\bin\Debug\net6.0\Reading.deps.json
+c:\Course\FileManipulation\Reading\bin\Debug\net6.0\Reading.runtimeconfig.json
+C:\Course\FileManipulation\Reading\bin\Debug\net6.0\Reading.dll
+C:\Course\FileManipulation\Reading\bin\Debug\net6.0\Reading.pdb
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.csproj.AssemblyReference.cache
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.AssemblyInfoInputs.cache
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.AssemblyInfo.cs
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.csproj.CoreCompileInputs.cache
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.dll
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\refint\Reading.dll
+C:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.pdb
+c:\Course\FileManipulation\Reading\obj\Debug\net6.0\Reading.genruntimeconfig.cache
+c:\Course\FileManipulation\Reading\obj\Debug\net6.0\ref\Reading.dll
