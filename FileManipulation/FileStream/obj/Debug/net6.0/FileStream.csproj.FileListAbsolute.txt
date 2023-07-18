@@ -1,0 +1,15 @@
+C:\Course\FileManipulation\FileStream\bin\Debug\net6.0\FileStream.exe
+C:\Course\FileManipulation\FileStream\bin\Debug\net6.0\FileStream.deps.json
+C:\Course\FileManipulation\FileStream\bin\Debug\net6.0\FileStream.runtimeconfig.json
+C:\Course\FileManipulation\FileStream\bin\Debug\net6.0\FileStream.dll
+C:\Course\FileManipulation\FileStream\bin\Debug\net6.0\FileStream.pdb
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.csproj.AssemblyReference.cache
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfoInputs.cache
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfo.cs
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.csproj.CoreCompileInputs.cache
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.dll
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\refint\FileStream.dll
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.pdb
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\FileStream.genruntimeconfig.cache
+C:\Course\FileManipulation\FileStream\obj\Debug\net6.0\ref\FileStream.dll
