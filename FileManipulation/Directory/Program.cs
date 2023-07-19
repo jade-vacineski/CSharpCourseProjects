@@ -1,4 +1,6 @@
-﻿namespace Course
+﻿using System.Net.WebSockets;
+
+namespace Course
 {
     class Program
     {
@@ -6,30 +8,15 @@
         {
             string path = @"C:\Course\FileManipulation\Directory\myfolder";
 
-            try
-            {
-                var folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories);
-                System.Console.WriteLine("Folders: ");
-                foreach (string s in folders)
-                {
-                    System.Console.WriteLine(s);
-                }
+            System.Console.WriteLine("DirectorySeparatorChar: " + Path.DirectorySeparatorChar);
+            System.Console.WriteLine("PathSeparator: " + Path.PathSeparator);
+            System.Console.WriteLine("GetDirectoyName: " + Path.GetDirectoryName(path));
+            System.Console.WriteLine("GetFileName: " + Path.GetFileName(path));
+            System.Console.WriteLine("GetExtension" + Path.GetExtension(path));
+            System.Console.WriteLine("GetFileNameWithoutExtension" + Path.GetFileNameWithoutExtension(path));
+            System.Console.WriteLine("GetFullPath" + Path.GetFullPath(path));
+            System.Console.WriteLine(Path.GetTempPath());
 
-                
-                var files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
-                System.Console.WriteLine("Files: ");
-                foreach (string s in files)
-                {
-                    System.Console.WriteLine(s);
-                }
-
-                Directory.CreateDirectory(path + "\\new folder");
-
-            }
-            catch (Exception ex)
-            {
-                System.Console.WriteLine(ex.Message);
-            }
         }
     }
 }
