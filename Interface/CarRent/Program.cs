@@ -25,7 +25,7 @@ namespace Course
             double day = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             var carRental = new CarRental(start, finish, new Vehicle(model));
-            var rentalService = new RentalService(hour, day);
+            var rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
             System.Console.WriteLine("Invoice");
